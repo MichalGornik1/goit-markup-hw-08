@@ -1,1 +1,1 @@
-# goit-markup-hw-08
+Michał Górnik # goit-markup-hw-08
